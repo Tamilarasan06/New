@@ -19,5 +19,6 @@ public static void main(String[] args) {
 	ci.companyName("redmi", 234);
 	ci.companyName("oppo",123l);
 	ci.companName("Tamil");
+	System.out.println("editor by kumar in tamil new");
 }   
 }
